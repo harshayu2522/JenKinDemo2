@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					A6D950331F86099700B1F221 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 96X8KV6RC7;
 						ProvisioningStyle = Automatic;
 					};
 					A6D9504C1F86099700B1F221 = {
@@ -426,9 +427,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 96X8KV6RC7;
 				INFOPLIST_FILE = JenKinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = e.JenKinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ssdevelopment.jkDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -437,9 +439,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 96X8KV6RC7;
 				INFOPLIST_FILE = JenKinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = e.JenKinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ssdevelopment.jkDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
